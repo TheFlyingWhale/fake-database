@@ -1,34 +1,92 @@
 {
     "events": [
-      {
-        "id": 123,
-        "category": "animal welfare",
-        "title": "Cat Adoption Day",
-        "description": "Find your new feline friend at this event.",
-        "location": "Meow Town",
-        "date": "January 28, 2022",
-        "time": "12:00",
-        "organizer": "Kat Laydee"
-      },
-      {
-        "id": 456,
-        "category": "food",
-        "title": "Community Gardening",
-        "description": "Join us as we tend to the community edible plants.",
-        "location": "Flora City",
-        "date": "March 14, 2022",
-        "time": "10:00",
-        "organizer": "Fern Pollin"
-      },
-      {
-        "id": 789,
-        "category": "sustainability",
-        "title": "Beach Cleanup",
-        "description": "Help pick up trash along the shore.",
-        "location": "Playa Del Carmen",
-        "date": "July 22, 2022",
-        "time": "11:00",
-        "organizer": "Carey Wales"
-      }
+        {
+            "id": 123,
+            "category": "animal welfare",
+            "title": "Cat Adoption Day",
+            "description": "Find your new feline friend at this event.",
+            "location": "Meow Town",
+            "date": "January 28, 2022",
+            "time": "12:00",
+            "organizer": "Kat Laydee"
+        },
+        {
+            "id": 456,
+            "category": "food",
+            "title": "Community Gardening",
+            "description": "Join us as we tend to the community edible plants.",
+            "location": "Flora City",
+            "date": "March 14, 2022",
+            "time": "10:00",
+            "organizer": "Fern Pollin"
+        },
+        {
+            "id": 789,
+            "category": "sustainability",
+            "title": "Beach Cleanup",
+            "description": "Help pick up trash along the shore.",
+            "location": "Playa Del Carmen",
+            "date": "July 22, 2022",
+            "time": "11:00",
+            "organizer": "Carey Wales"
+        }
+    ],
+    "facebook": [
+        {
+            "id": 0,
+            "name": "Ole Walberg",
+            "age": 26,
+            "favoriteFood": "Butter Chicken",
+            "image": "https://scontent.fosl1-1.fna.fbcdn.net/v/t1.6435-9/32643459_10216206268731110_4380836843436900352_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=A4pfX3s0JFUAX9l5K1_&_nc_ht=scontent.fosl1-1.fna&oh=00_AT8KyaDB9XqaG9kUy4Ksl3_DQe4A-xGYfruG9bsQvx3_TQ&oe=627A5406",
+            "favoriteColor": "turquoise"
+        },
+        {
+            "id": 1,
+            "name": "Fredrikke Maria Kulsrud",
+            "age": 29,
+            "favoriteFood": "Dim Sum",
+            "picture": "https://scontent.fosl1-1.fna.fbcdn.net/v/t1.6435-9/192851204_10165258290175258_3157455898502558449_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=2qWPqM9KIcgAX9anxZG&_nc_ht=scontent.fosl1-1.fna&oh=00_AT_4fCZ3Cfcnt3HLY9WL18iEqKGog84RrMXQMq4801vBTw&oe=6279641B",
+            "favoriteColor": "red"
+        },
+        {
+            "id": 2,
+            "name": "Inger Marie Gunderhuset",
+            "age": 22,
+            "favoriteFood": "Chicken Tandoori Pot",
+            "picture": "https://scontent.fosl1-1.fna.fbcdn.net/v/t1.6435-9/137537252_3872054432815056_3898212150424603527_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=8zyzEz3eA_wAX-0QQb8&_nc_ht=scontent.fosl1-1.fna&oh=00_AT9CW-xC26ukghRSfu1z1esdmrFUHllShG8iWuyTcwp2tg&oe=6277DD71",
+            "favoriteColor": "blue"
+        },
+        {
+            "id": 3,
+            "name": "Max Krohn",
+            "age": 23,
+            "favoriteFood": "Spaghetti",
+            "picture": "https://scontent.fosl1-1.fna.fbcdn.net/v/t1.6435-9/29791095_2023938064301610_7184702978731802624_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=8rbiizVAyzIAX8zUqIs&tn=tpVyYyZ0sEb2OUJB&_nc_ht=scontent.fosl1-1.fna&oh=00_AT_Q0qENrtyqiPRJJE7NKQVCkTMJz9M4FrIWNEp8YhqL0A&oe=62786E26",
+            "favoriteColor": "yellow"
+        },
+        {
+            "id": 4,
+            "name": "Nicolas Mariano Cerda Diaz",
+            "age": 26,
+            "favoriteFood": "Lasagne",
+            "picture": "../assets/images/profilePicture_Nicolas.jpeg",
+            "favoriteColor": "burgundy"
+        },
+        {
+            "id": 5,
+            "name": "Sofia Skärberg",
+            "age": 28,
+            "favoriteFood": "Sushi",
+            "picture": "https://scontent.fosl1-1.fna.fbcdn.net/v/t1.6435-9/91799176_10221325695867574_8110289802777067520_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=2h_oMnPE5B0AX-3pyyr&_nc_ht=scontent.fosl1-1.fna&oh=00_AT9ejIuNmBoY6s0TBd7p0LoyaWB9c8TXWumCizp1EGm8jw&oe=6277E5E5",
+            "favoriteColor": "pink"
+        },
+        {
+            "id": 6,
+            "name": "A Marcela Ravn",
+            "age": 25,
+            "favoriteFood": null,
+            "picture": "https://scontent.fosl1-1.fna.fbcdn.net/v/t1.6435-9/79513875_10158040948849916_1254280022668083200_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=HT4dYWx28LEAX-SaDaF&_nc_ht=scontent.fosl1-1.fna&oh=00_AT_wTJZF2rRmDNJRC5FBWM0YUlA-Zv3e92VNnNIiB0eWFQ&oe=6277E4AD",
+            "favoriteColor": "black"
+        }
     ]
-  }
+}
